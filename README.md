@@ -171,7 +171,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Mostafa Elbhary**
 
 - GitHub: [@mostafa-elbhary](https://github.com/mostafa-elbhary)
-- Email: contact@example.com
+- Email: moooelbhary0@gmail.com
 
 ## 📞 Support
 
